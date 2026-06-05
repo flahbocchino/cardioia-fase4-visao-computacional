@@ -25,4 +25,5 @@ Classes: NORMAL vs PNEUMONIA | 5.856 imagens
 
 ## Repositórios Anteriores
 - [Fase 1 — Tabagismo e Vape](https://github.com/flahbocchino/cardioia-fase1-tabagismo-vape)
+- [Fase 2 — Diagnóstico](https://github.com/flahbocchino/cardioia-fase2-diagnostico)
 - [Fase 3 — Monitoramento Contínuo](https://github.com/flahbocchino/cardioia-fase3-iot-monitoramento_flaviabocchino)
